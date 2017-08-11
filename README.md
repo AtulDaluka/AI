@@ -13,6 +13,10 @@ pip3 install tensorflow
 pip3 install keras
 pip3 install face_recognition
 
+** Output Test Videos **
+1. ai2.mp4 
+2. ai3.mp4
+
 **Opened.ai folder contains two python codes-**
 1. new.py - gui + face recognizer(open this to run software)
 2. face_re.py - face identifier and recognizer 
